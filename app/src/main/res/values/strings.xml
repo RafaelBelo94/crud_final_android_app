@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListadeCadastroSenai</string>
+    <string name="buttonVoltar">LISTAR</string>
+    <string name="principal">LISTANDO ACESSOS</string>
+    <string name="user">USUARIO</string>
+    <string name="key">SENHA</string>
+    <string name="telephone">TELEFONE</string>
+    <string name="mail">EMAIL</string>
+</resources>
